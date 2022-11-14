@@ -1,10 +1,6 @@
-//hey this is a comment
-console.log("hello world")
-console.log("hello world") //2nd time
+console.log("hello world");
 
 function main() {
-return null;
+    console.log(1);
 }
 main()
-
-//console.log(main)
